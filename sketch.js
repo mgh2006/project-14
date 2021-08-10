@@ -57,6 +57,7 @@ function draw() {
       blueBaloon();
     } else if(select_balloon == 4) {
       pinkBaloon();
+    }
     drawSprites();
 }
 
